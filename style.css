@@ -1,5 +1,5 @@
 body {
-background-color: #ff05ac;
+background-color: #ff00aae5;
 color: white;
 font-family: "Bai Jamjuree", sans-serif;
 display: flex;
@@ -10,7 +10,7 @@ margin: 0;
 }
 
 button {
-background-color: #ff1f88;
+background-color: #fa6aadc2;
 color: white;
 font-family: "Bai Jamjuree", sans-serif;
 }
